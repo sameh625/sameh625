@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm Sameh Mostafa
-- Computer Science Student @ Faculty of Computers and Information
-- Passionate about software development, especially in Python, Java, c++, javascript and web technologies
+- 4th-year Computer Science student @ Faculty of Computers and Information, Menofia University
+- Passionate about software development, especially in Python, Java, C++, JavaScript, and web technologies
 - Currently learning: Django
 - Exploring AI, backend systems, and expert systems
