@@ -5,7 +5,7 @@
 - 💻 Passionate about software development, especially in **Python, Java, C++, JavaScript**, and web technologies  
 - 🚀 Currently learning: **Django**  
 - 🧠 Exploring **AI**, **backend systems**, and **expert systems**
-
+📧 Email: [samehmostafa625@gmail.com](mailto:samehmostafa625@gmail.com)
 ---
 
 ## 💡 Tech Stack
