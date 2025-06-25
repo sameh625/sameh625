@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Sameh Mostafa
-🎓 Computer Science Student @ Faculty of Computers and Information
-💻 Passionate about software development, especially in Python, Java, c++, and web technologies
-📚 Currently learning: Django
-🧠 Exploring AI, backend systems, and expert systems
+- Hi, I'm Sameh Mostafa
+- Computer Science Student @ Faculty of Computers and Information
+- Passionate about software development, especially in Python, Java, c++, and web technologies
+- Currently learning: Django
+- Exploring AI, backend systems, and expert systems
