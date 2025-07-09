@@ -1,16 +1,16 @@
 # 👋 Hi there
 
 - I'm **Sameh Mostafa**  
-- 🎓 4th-year Computer Science student @ Faculty of Computers and Information, Menofia University  
-- 💻 Passionate about software development, especially in **Python, Java, C++, JavaScript**, and web technologies  
-- 🚀 Currently learning: **Django**  
-- 🧠 Exploring **AI**, **backend systems**, and **expert systems**
+- 4th-year Computer Science student @ Faculty of Computers and Information, Menofia University  
+- Passionate about software development, especially in **Python, Java, C++, JavaScript**, and web technologies  
+- Currently learning: **Django**  
+- Exploring **AI** and **backend development**
 - 📧 Email: [Sameh](mailto:samehmostafa625@gmail.com)
 ---
 
-## 💡 Tech Stack
+## Tech Stack
 
-### 🚀 Proficient In:
+### Proficient In:
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
@@ -24,7 +24,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 </p>
 
-### 🛠️ Familiar With:
+### Familiar With:
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
