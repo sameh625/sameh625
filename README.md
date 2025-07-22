@@ -44,10 +44,10 @@
 
 ## 📊 Stats
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sameh625&label=Profile%20views&color=0e75b6&style=flat" alt="sameh625" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh625&show_icons=true&locale=en&layout=compact" alt="sameh625" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh625&show_icons=true&locale=en&layout=compact" alt="sameh625" />
 </p>
 
