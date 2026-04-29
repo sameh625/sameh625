@@ -1,4 +1,4 @@
-# 👋 Hi there
+# Hi there
 
 - I'm **Sameh Mostafa**  
 - Passionate about software development, especially in **Python, Java, C++, JavaScript**, and web technologies  
